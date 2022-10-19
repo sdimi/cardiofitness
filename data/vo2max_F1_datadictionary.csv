@@ -1,0 +1,22 @@
+Study Name,mssql_Fenland_R9
+Variable,Description
+serno,serno
+P_TR_FITNESS_est,PA_Clinic category. Treadmill test VO2max estimate using estimated PAEE (ml O2/min/kg)
+P_TR_FITNESS_HighPt_est,PA_Clinic category. Treadmill test: New for R7. Treadmill test VO2max estimate (ml O2/min/kg) using estimated PAEE (High Point Model)
+P_TR_FITNESS_est_P2
+P_TR_FITNESS_HighPt_est_P2
+BNF_BetaBlocker,Has the volunteer reported usage of Beta blockers on the general questionnaire as defined by the following BNF code: 2.4 or 2.12 or 6.1.2 This does not imply that the volunteer is not on betablockers if the code here is 0 since there are more BNF codes for betablocker. Please use variable BNF_Betablocker_Pateam instead as an accurate indication of betablocker use. 1 = True; 0 = False; 
+BetaBlocker_PA,New for R8. Is the volunteer on betablockers? As indicated by nurse at the time of doing treadmill test. Volunteer's affermative answer is recorded as yes. The data is then reviewed by the PA team and corrected where additional information (eg notes on form) indicates betablocker useage. This is a much more accurate indication of betablocker useage then BNF_Betablocker variable.
+OnBetablockers,Data as entered on Study database. Is volunteer on beta blockers?  tick = yes;  left blank = no;
+OnBetablockers_P2,Phase 2 data. Data as entered on Study database. Is volunteer on beta blockers?  tick = yes;  left blank = no;
+PAEE,Physical activity energy expenditure [kJ/kg/d]
+HOME_PAEE,Home domain activity energy expenditure [kJ/kg/d]
+WORK_PAEE,Work domain activity energy expenditure [kJ/kg/d]
+LEIS_PAEE,Leisure domain activity energy expenditure [kJ/kg/d]
+COMMUTE_PAEE,Commute domain activity energy expenditure [kJ/kg/d]
+SEDtime,Time spent sedentary  excluding sleep (hrs/d)
+LIGHTtime,Time spent at light intensity activity [hrs/d]
+MODERATEtime,Time spent at moderate intensity activity [hrs/d]
+VIGOROUStime,Time spent at vigorous intensity activity [hrs/d]. Created by PA team to facilitate data cleaning. Data can be provided if needed.
+G_SMOKE,Current Smoking Consumption History / Status. Data derived by DM team from GenQ Qs on smoking as follows: for GQVersion1 code 1 applies to (ever smoke (ES) - other and smokes daily(D) - no and occasionally(O) - no); code 2 to (ES - yes and D - no and O - no); code 3 to (ES - yes and D -other and O - other); code 4 to either (ES - yes and (D - yes or O - yes) or (ES - no and (D - yes or O - yes); code 9 to (ES - no and (D - yes or O - yes). For GQversion 2 3 and 4 code 1 applies to (ES - other and current (C) - no); code 2 to (ES - yes and C- no);  code 3 to (ES - yes and C - other); code 4 to either (ES - yes and C - yes) or (ES - other and C - yes); code 9 to either (ES - no and C - other) or (ES - other and C - other). If number of cigarettes/ cheroots/ cigars and/ or tobacco >0 then this category gets adjusted automatically. The data in this variable is slightly different from data in gq_sm_DER since different definitions for the answers have been applied. 1 = not current (never or ex); 2 =Ex (former); 3 =Ever (former or current); 4 = Current; 9 = Not known; 0 = never; 
+G_SMOKE_P2,Phase 2 data. Current Smoking Consumption History / Status. Data derived by DM team from GenQ Qs on smoking as follows: for GQVersion1 code 1 applies to (ever smoke (ES) - other and smokes daily(D) - no and occasionally(O) - no); code 2 to (ES - yes and D - no and O - no); code 3 to (ES - yes and D -other and O - other); code 4 to either (ES - yes and (D - yes or O - yes) or (ES - no and (D - yes or O - yes); code 9 to (ES - no and (D - yes or O - yes). For GQversion 2 3 and 4 code 1 applies to (ES - other and current (C) - no); code 2 to (ES - yes and C- no);  code 3 to (ES - yes and C - other); code 4 to either (ES - yes and C - yes) or (ES - other and C - yes); code 9 to either (ES - no and C - other) or (ES - other and C - other). If number of cigarettes/ cheroots/ cigars and/ or tobacco >0 then this category gets adjusted automatically.  1 = not current (never or ex); 2 =Ex (former); 3 =Ever (former or current); 4 = Current; 9 = Not known; 0 = never; 

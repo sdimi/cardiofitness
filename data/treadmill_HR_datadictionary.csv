@@ -1,0 +1,54 @@
+Study Name,mssql_Fenland_R9_Rubidium
+Variable,Description
+serno,serno
+P_testduration,PA_Clinic category. Treadmill test: Duration of treadmill test completed (min)
+P_rest_HRaS_min_4,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 4 of rest test
+P_rest_HRaS_min_5,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 5 of rest test
+P_rest_HRaS_min_6,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 6 of rest test
+P_TR_HRaS_min_1,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 1 of treadmill test
+P_TR_HRaS_min_2,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 2 of treadmill test
+P_TR_HRaS_min_3,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 3 of treadmill test
+P_TR_HRaS_min_4,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 4 of treadmill test
+P_TR_HRaS_min_5,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 5 of treadmill test
+P_TR_HRaS_min_6,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 6 of treadmill test
+P_TR_HRaS_min_7,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 7 of treadmill test
+P_TR_HRaS_min_8,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 8 of treadmill test
+P_TR_HRaS_min_9,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 9 of treadmill test
+P_TR_HRaS_min_10,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 10 of treadmill test
+P_TR_HRaS_min_11,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 11 of treadmill test
+P_TR_HRaS_min_12,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 12 of treadmill test
+P_TR_HRaS_min_13,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 13 of treadmill test
+P_TR_HRaS_min_14,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 14 of treadmill test
+P_TR_HRaS_min_15,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 15 of treadmill test
+P_TR_HRaS_min_16,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 16 of treadmill test
+P_TR_HRaS_min_17,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 17 of treadmill test
+P_TR_HRaS_min_18,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 18 of treadmill test
+P_TR_HRaS_min_19,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 19 of treadmill test
+P_TR_HRaS_min_20,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 20 of treadmill test
+P_TR_HRaS_min_21,PA_Clinic category. Treadmill test: New for R7. Median heart rate above sleep (bpm) min 21 of treadmill test
+P_TR_ACC_min_1,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 1 of treadmill test
+P_TR_ACC_min_2,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 2 of treadmill test
+P_TR_ACC_min_3,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 3 of treadmill test
+P_TR_ACC_min_4,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 4 of treadmill test
+P_TR_ACC_min_5,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 5 of treadmill test
+P_TR_ACC_min_6,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 6 of treadmill test
+P_TR_ACC_min_7,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 7 of treadmill test
+P_TR_ACC_min_8,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 8 of treadmill test
+P_TR_ACC_min_9,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 9 of treadmill test
+P_TR_ACC_min_10,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 10 of treadmill test
+P_TR_ACC_min_11,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 11 of treadmill test
+P_TR_ACC_min_12,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 12 of treadmill test
+P_TR_ACC_min_13,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 13 of treadmill test
+P_TR_ACC_min_14,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 14 of treadmill test
+P_TR_ACC_min_15,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 15 of treadmill test
+P_TR_ACC_min_16,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 16 of treadmill test
+P_TR_ACC_min_17,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 17 of treadmill test
+P_TR_ACC_min_18,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 18 of treadmill test
+P_TR_ACC_min_19,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 19 of treadmill test
+P_TR_ACC_min_20,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 20 of treadmill test
+P_TR_ACC_min_21,PA_Clinic category. Treadmill test: New for R7. Median trunk accleration (m/s2) min 21 of treadmill test
+P_TR_FITNESS_trunc15_est,PA_Clinic category. Treadmill test: New for R7. Treadmill test VO2max estimate (ml O2/min/kg) using estimated PAEE (truncated to 15mins)
+P_SHR,PA_FREE_LIVING category. Sleep HR (beats/min)
+P_PAEE_Branch2,PA_PAEE and PA_FREE_LIVING category variable. Activity Energy expenditure based on combined acceleration and heart rate using t/mill no VO2 (kJ/kg/day).
+P_PAEE_Branch6,PA_PAEE and PA_FREE_LIVING category variable. Activity Energy expenditure based on combined ACC and HR using walk cal (no VO2) (kJ/kg/day)
+P_Pwear_consolidated,MUST HAVE PA DATA and PA_FREE_LIVING category. Consolidated Pwear (for applied model in PAEE_consolidated) in hours.
