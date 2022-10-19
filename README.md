@@ -20,13 +20,8 @@ Cardiorespiratory fitness is an established predictor of metabolic disease and m
 ## 🛠️ Requirements
 The code is written in python 3.6.0. The main libraries needed to execute our code are as follows:
 
- - tensorflow 1.4.0
- - keras 2.2.0
- - matplotlib 3.2.2
- - pandas 1.0.5
- - scikit-learn 0.23.1
- - numpy 1.19.0
- 
+    pip install -r requirements.txt
+    
 You might also need some extra helper libraries like `tqdm` (prettier for-loops) but they are not mandatory.
 
 ## 🗂️ Data 
