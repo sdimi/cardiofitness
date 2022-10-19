@@ -1,7 +1,9 @@
 # _CardioFitness_ 🫀💪 — VO2max prediction with wearables
+### 📖 Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments 
+(code for Nature Digital Medicine '22 paper)
+
 ![header image](https://github.com/sdimi/cardiofitness/blob/main/data/study_overview.png)
 
-### 📖 Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments
 
 <details><summary>Abstract (click to expand)</summary>
 <p>
@@ -49,7 +51,7 @@ Last, to evaluate the models on task 3 using new Fenland II sensor data, run:
 
 ## Pre-trained models
 
-We provide the best model and its weights of Task 1 (called _comprehensive model_ in the paper) in the folder ``/models/20201109-013142``. This model can be used directly to predict VO2max values following the pre-processing pipeline in with ``01_data_extraction.py`` and ``02_training_task1.py``.
+We provide the best model and its weights for Task 1 (called _comprehensive model_ in the paper) in the folder ``/models/20201109-013142``. This model can be used directly to predict VO2max values following the pre-processing pipeline in with ``01_data_extraction.py`` and ``02_training_task1.py``.
 
 ## How to cite our paper 
 
@@ -62,6 +64,8 @@ Relevant papers from the same project:
 > [2]  Dimitris Spathis, Ignacio Perez-Pozuelo, Soren Brage, Nicholas J. Wareham, Cecilia Mascolo. ["Self-supervised transfer learning of physiological representations from free-living wearable data."](https://dl.acm.org/doi/10.1145/3450439.3451863) In Proceedings of ACM Conference on Health, Inference, and Learning (CHIL), USA, 2021.
 
 > [3] Dimitris Spathis, Ignacio Perez-Pozuelo, Soren Brage, Nicholas J. Wareham, Cecilia Mascolo. ["Learning Generalizable Physiological Representations from Large-scale Wearable Data."](https://arxiv.org/pdf/2011.04601.pdf) In NeurIPS Machine Learning for Mobile Health workshop, Vancouver, Canada, 2020.
+
+> [4] Chi Ian Tang, Ignacio Perez-Pozuelo, Dimitris Spathis, Soren Brage, Nick Wareham, Cecilia Mascolo. ["SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data."](https://dl.acm.org/doi/10.1145/3448112) In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 1, 2021.
 
 ## License
 
