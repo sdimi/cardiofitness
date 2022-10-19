@@ -53,7 +53,7 @@ Last, to evaluate the models on task 3 using new Fenland II sensor data, run:
 
 ## Pre-trained models
 
-We provide the best model and its weights for Task 1 (called _comprehensive model_ in the paper) in the folder ``/models/20201109-013142``. This model can be used directly to predict VO2max values following the pre-processing pipeline in with ``01_data_extraction.py`` and ``02_training_task1.py``.
+We provide the best model and its weights for Task 1 (called _comprehensive model_ in the paper) in the folder ``/models/20201109-013142``. This model can be used as is to predict VO2max values following the pre-processing pipeline in ``01_data_extraction.py`` and ``02_training_task1.py``.
 
 ## How to cite our paper 
 
