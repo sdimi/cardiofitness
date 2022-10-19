@@ -18,7 +18,7 @@ Cardiorespiratory fitness is an established predictor of metabolic disease and m
 **This repository**. We provide the code to reproduce the experiments of the paper [1]. We cannot share the entire dataset due to privacy limitations that safeguard health data, however we provide some real data samples (see below). The main input is a chest ECG device which recorded heart rate and movement in 15-second intervals. For the prediction task, the most important outcome is VO2max (cardiorespiratory fitness), measured with a treadmil test. We have pre-processed the data by extracting statistical features. Then we train models using the Fenland I cohort and evaluate them using the Fenland II and BVS cohorts. We provide Python files and Jupyter notebooks with all figures/visualizations included in the paper.
 
 ## 🛠️ Requirements
-The code is written in python 3.6.0. The main libraries needed to execute our code are as follows:
+The code is written in python 3.6.0. The main libraries needed to execute the code will be installed through:
 
     pip install -r requirements.txt
     
