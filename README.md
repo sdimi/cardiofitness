@@ -1,6 +1,8 @@
 # _CardioFitness_ 🫀💪 — VO2max prediction with wearables
+
 ### 📖 Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments 
-(code for Nature Digital Medicine '22 paper)
+code for Nature Digital Medicine '22 paper
+
 
 ![header image](https://github.com/sdimi/cardiofitness/blob/main/data/study_overview.png)
 
