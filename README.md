@@ -45,6 +45,7 @@ Last, to evaluate the models on task 3 using new Fenland II sensor data, run:
 
     python3 "03_inference_task3_FenlandIIsensors.py"
 
+The figures/results included in the paper can be found in ``/visualization``. Please note that these notebooks use the entire datasets, not the sample provided in this repository.
 
 ## Pre-trained models
 
