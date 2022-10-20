@@ -25,7 +25,7 @@ The code is written in python 3.6.0. The main libraries needed to execute the co
 You might also need some extra helper libraries like `tqdm` (prettier for-loops) but they are not mandatory.
 
 ## 🗂️ Data 
-We use data from the [Fenland Study](https://www.mrc-epid.cam.ac.uk/research/studies/fenland/) and the [Biobank Validation Study](https://www.mrc-epid.cam.ac.uk/research/studies/uk-biobank-validation/). We cannot publicly share this data but it is available from the MRC Epidemiology Unit at the University of Cambridge upon reasonable request. To facilitate easier testing of our code, we provide small samples with the same vector shapes and naming conventions. See ``data/extracted_features`` for the features and their order and ``data/vo2max_F1`` for the laboratory treadmill data sample and the data dictionary. Raw sensor features from a randomly selected participant are provided in ``/data/FL_511496R.dta``.
+We use data from the [Fenland Study](https://www.mrc-epid.cam.ac.uk/research/studies/fenland/) and the [Biobank Validation Study](https://www.mrc-epid.cam.ac.uk/research/studies/uk-biobank-validation/). We cannot publicly share this data but it is available from the MRC Epidemiology Unit at the University of Cambridge upon reasonable request. To facilitate easier testing of our code, we provide small samples with the same vector shapes and naming conventions. See ``data/extracted_features`` for the features and their order and ``data/vo2max_F1`` for the laboratory treadmill data sample and the data dictionary. Raw sensor signals from a randomly selected participant are provided in ``/data/FL_511496R.dta``.
 
  
 # ▶️ Run
