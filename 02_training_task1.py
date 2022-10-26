@@ -47,7 +47,7 @@ training_mode = 'NN'
 # DATA LOADING 
 
 #we load extracted features of the sample user
-frame = pd.read_csv("data/511496R_features.csv", index_col=0)
+frame = pd.read_csv("data/extracted_features.csv", index_col=0)
 #load Vo2max data
 fitness_df = pd.read_csv("/data/vo2max_F1.csv")
 fitness_df.index = fitness_df['serno'] #move the user_id to index
