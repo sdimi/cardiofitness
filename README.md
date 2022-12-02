@@ -55,7 +55,7 @@ We provide the best model and its weights for Task 1 (called _comprehensive mode
 
 Please consider citing our paper if you use code or ideas from this project:
 
-> [1]  Dimitris Spathis, Ignacio Perez-Pozuelo, Tomas I. Gonzales, Yu Wu, Soren Brage, Nicholas Wareham, Cecilia Mascolo. ["Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments."](https://arxiv.org/abs/2205.03116), **Nature Digital Medicine**, 2022 (to appear).
+> [1]  Dimitris Spathis, Ignacio Perez-Pozuelo, Tomas I. Gonzales, Yu Wu, Soren Brage, Nicholas Wareham, Cecilia Mascolo. ["Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments."](https://doi.org/jpcc), **Nature Digital Medicine**, 2022.
 
 Relevant papers from the same project:
 
