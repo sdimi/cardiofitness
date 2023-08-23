@@ -65,6 +65,8 @@ Relevant papers from the same project:
 
 > [4] Chi Ian Tang, Ignacio Perez-Pozuelo, Dimitris Spathis, Soren Brage, Nick Wareham, Cecilia Mascolo. ["SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data."](https://dl.acm.org/doi/10.1145/3448112) In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 1, 2021.
 
+> [5] Wu, Yu, Dimitris Spathis, Hong Jia, Ignacio Perez-Pozuelo, Tomas Gonzales, Soren Brage, Nicholas Wareham, and Cecilia Mascolo. ["UDAMA: Unsupervised Domain Adaptation through Multi-discriminator Adversarial Training with Noisy Labels Improves Cardio-fitness Prediction."](https://www.mlforhc.org/s/ID136_Research-Paper_2023.pdf) Machine Learning for Healthcare (MLHC), USA, 2023.
+
 ## License
 
 This code is licensed under the terms and conditions of GPLv3 unless otherwise stated. The actual paper is governed by a separate license and the paper authors retain their respective copyrights.
